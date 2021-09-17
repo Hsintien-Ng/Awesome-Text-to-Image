@@ -112,7 +112,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2021) **Towards Open-World Text-Guided Face Image Generation and Manipulation** [[Paper](https://arxiv.org/abs/2104.08910.pdf)]
     * (IEEE Access 2021) **Text-Guided Style Transfer-Based Image Manipulation Using Multimodal Generative Models** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9389731)]
     * (arXiv preprint 2021) **Towards Better Adversarial Synthesis of Human Images from Text** [[Paper](https://arxiv.org/abs/2107.01869.pdf)]
-    * (arXiv preprint 2021) **Semantic Text-to-Face GAN - ST<sub>2</sub>FG** [[Paper](https://arxiv.org/abs/2107.10756.pdf)]
+    * (arXiv preprint 2021) **Semantic Text-to-Face GAN - ST<sup>2</sup>FG** [[Paper](https://arxiv.org/abs/2107.10756.pdf)]
     * (arXiv preprint 2021) **DAE-GAN: Dynamic Aspect-aware GAN for Text-to-Image Synthesis** [[Paper](https://arxiv.org/abs/2108.12141.pdf)]
     * (arXiv preprint 2021) **Improving Text-to-Image Synthesis Using Contrastive Learning**, Hui Ye et al. [[Paper](https://arxiv.org/pdf/2107.02423v1.pdf)] [[Code](https://github.com/huiyegit/T2I_CL)]
     * (ACMMM 2021) **Cycle-Consistent Inverse GAN for Text-to-Image Synthesis**, Hao Wang et al. [[Paper](https://arxiv.org/pdf/2108.01361.pdf)]
