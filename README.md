@@ -102,10 +102,11 @@ A number of studies have been conducted on the text-to-image synthesis technique
 ## <span id="head4"> *4.Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span> **[`       «🎯Back To Top»       `](#)**
-    * (2021) **Adversarial Text-to-Image Synthesis: A Review**, Stanislav Frolov et al. [[Paper](https://arxiv.org/pdf/2101.09983.pdf)] 
+    * (2021) **Adversarial Text-to-Image Synthesis: A Review**, Stanislav Frolov et al. [[Paper](https://arxiv.org/pdf/2101.09983.pdf)] [[Code](https://github.com/hiarsal/dae-gan)]
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
     
 * <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
+    * (arXiv preprint 2021) **DAE-GAN: Dynamic Aspect-aware GAN for Text-to-Image Synthesis** [[Paper](https://arxiv.org/abs/2108.12141.pdf)]
     * (arXiv preprint 2021) **Improving Text-to-Image Synthesis Using Contrastive Learning**, Hui Ye et al. [[Paper](https://arxiv.org/pdf/2107.02423v1.pdf)] [[Code](https://github.com/huiyegit/T2I_CL)]
     * (ACMMM 2021) **Cycle-Consistent Inverse GAN for Text-to-Image Synthesis**, Hao Wang et al. [[Paper](https://arxiv.org/pdf/2108.01361.pdf)]
     * (arXiv preprint 2021) **CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders**, Kevin Frans et al. [[Paper](https://arxiv.org/pdf/2106.14843.pdf)] [[Code](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
