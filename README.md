@@ -106,6 +106,13 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
     
 * <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
+    * (arXiv preprint 2021) **Benchmark for Compositional Text-to-Image Synthesis** [[Paper](https://openreview.net/pdf?id=bKBhQhPeKaF)]
+    * (arXiv preprint 2021) **M6: A Chinese Multimodal Pretrainer** [[Paper](https://arxiv.org/abs/2103.00823.pdf)]
+    * (arXiv preprint 2021) **Paint By Word** [[Paper](https://arxiv.org/abs/2103.10951.pdf)]
+    * (arXiv preprint 2021) **Towards Open-World Text-Guided Face Image Generation and Manipulation** [[Paper](https://arxiv.org/abs/2104.08910.pdf)]
+    * (IEEE Access 2021) **Text-Guided Style Transfer-Based Image Manipulation Using Multimodal Generative Models** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9389731)]
+    * (arXiv preprint 2021) **Towards Better Adversarial Synthesis of Human Images from Text** [[Paper](https://arxiv.org/abs/2107.01869.pdf)]
+    * (arXiv preprint 2021) **Semantic Text-to-Face GAN - ST<sub>2</sub>FG** [[Paper](https://arxiv.org/abs/2107.10756.pdf)]
     * (arXiv preprint 2021) **DAE-GAN: Dynamic Aspect-aware GAN for Text-to-Image Synthesis** [[Paper](https://arxiv.org/abs/2108.12141.pdf)]
     * (arXiv preprint 2021) **Improving Text-to-Image Synthesis Using Contrastive Learning**, Hui Ye et al. [[Paper](https://arxiv.org/pdf/2107.02423v1.pdf)] [[Code](https://github.com/huiyegit/T2I_CL)]
     * (ACMMM 2021) **Cycle-Consistent Inverse GAN for Text-to-Image Synthesis**, Hao Wang et al. [[Paper](https://arxiv.org/pdf/2108.01361.pdf)]
