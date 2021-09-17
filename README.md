@@ -107,9 +107,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     
 * <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
     * (arXiv preprint 2021) **Benchmark for Compositional Text-to-Image Synthesis** [[Paper](https://openreview.net/pdf?id=bKBhQhPeKaF)]
-    * (arXiv preprint 2021) **M6: A Chinese Multimodal Pretrainer** [[Paper](https://arxiv.org/abs/2103.00823.pdf)]
-    * (arXiv preprint 2021) **Paint By Word** [[Paper](https://arxiv.org/abs/2103.10951.pdf)]
-    * (arXiv preprint 2021) **Towards Open-World Text-Guided Face Image Generation and Manipulation** [[Paper](https://arxiv.org/abs/2104.08910.pdf)]
     * (IEEE Access 2021) **Text-Guided Style Transfer-Based Image Manipulation Using Multimodal Generative Models** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9389731)]
     * (arXiv preprint 2021) **Towards Better Adversarial Synthesis of Human Images from Text** [[Paper](https://arxiv.org/abs/2107.01869.pdf)]
     * (arXiv preprint 2021) **Semantic Text-to-Face GAN - ST<sup>2</sup>FG** [[Paper](https://arxiv.org/abs/2107.10756.pdf)]
@@ -195,6 +192,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/orpatashnik/StyleCLIP)]
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[`       «🎯Back To Top»       `](#)**
+       * (arXiv preprint 2021) **Towards Open-World Text-Guided Face Image Generation and Manipulation** [[Paper](https://arxiv.org/abs/2104.08910.pdf)]
        * (arXiv preprint 2021) **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. [[Paper](https://arxiv.org/pdf/2103.17249.pdf)] [[Code](https://github.com/openai/DALL-E)]
        * (arXiv preprint 2021) **Paint by Word**, David Bau et al. [[Paper](https://arxiv.org/pdf/2103.10951.pdf)] 
        * ⭐(arXiv preprint 2021) **Zero-Shot Text-to-Image Generation**, Aditya Ramesh et al. [[Paper](https://arxiv.org/pdf/2102.12092.pdf)] [[Code](https://github.com/openai/DALL-E)] [[Blog](https://openai.com/blog/dall-e/)] [[Model Card](https://github.com/openai/DALL-E/blob/master/model_card.md)] [[Colab](https://colab.research.google.com/drive/1KA2w8bA9Q1HDiZf5Ow_VNOrTaWW4lXXG?usp=sharing)] 
