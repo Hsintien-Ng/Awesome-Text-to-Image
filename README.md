@@ -191,6 +191,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/orpatashnik/StyleCLIP)]
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[`       «🎯Back To Top»       `](#)**
+       * (ICCV 2021) **Talk-to-Edit: Fine-Grained Facial Editing via Dialog** [[Paper](https://arxiv.org/abs/2109.04425.pdf)] [[Code](https://github.com/yumingj/Talk-to-Edit)]
        * (arXiv preprint 2021) **Towards Open-World Text-Guided Face Image Generation and Manipulation** [[Paper](https://arxiv.org/abs/2104.08910.pdf)]
        * (arXiv preprint 2021) **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. [[Paper](https://arxiv.org/pdf/2103.17249.pdf)] [[Code](https://github.com/openai/DALL-E)]
        * (arXiv preprint 2021) **Paint by Word**, David Bau et al. [[Paper](https://arxiv.org/pdf/2103.10951.pdf)] 
