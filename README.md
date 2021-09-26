@@ -146,6 +146,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2020) **MPG: A Multi-ingredient Pizza Image Generator with Conditional StyleGANs**, Fangda Han et al. [[Paper](https://arxiv.org/pdf/2012.02821.pdf)] 
     
 * <span id="head-2019"> **2019**  </span> **[`       «🎯Back To Top»       `](#)**
+    * (ICCV 2019) **Generating Multiple Objects at Spatial Distinct Locations** [[Paper](https://arxiv.org/pdf/1901.00686.pdf)]
     * (IEEE TCSVT 2019) **Bridge-GAN: Interpretable Representation Learning for Text-to-image Synthesis**, Mingkuan Yuan et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902154)] [[Code](https://github.com/PKU-ICST-MIPL/Bridge-GAN_TCSVT2019)]
     * (AAAI 2019) **Perceptual Pyramid Adversarial Networks for Text-to-Image Synthesis**, Minfeng Zhu et al. [[Web](https://www.aaai.org/ojs/index.php/AAAI/article/view/4844)]
     * (AAAI 2019) **Adversarial Learning of Semantic Relevance in Text to Image Synthesis**, Miriam Cha et al. [[Web](https://www.aaai.org/ojs/index.php/AAAI/article/view/4553)]
